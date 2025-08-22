@@ -1,0 +1,15 @@
+spotipy 
+youtube-search-python
+httpx==0.24.1
+yt-dlp 
+pydub
+ffmpeg
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+matplotlib
+librosa
+tensorflow
+opencv-python
