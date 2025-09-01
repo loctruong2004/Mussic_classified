@@ -16,7 +16,7 @@ Mục tiêu: So sánh hiệu năng của các kiến trúc khác nhau và xây d
 ---
 
 ## 📂 Cấu trúc dự án
-
+```
 Mussic_classified/
 ├── README.md # Tài liệu dự án
 ├── requirement.txt # Danh sách dependencies
@@ -27,7 +27,7 @@ Mussic_classified/
 ├── train_with_pytorch.ipynb # Huấn luyện mô hình bằng PyTorch
 ├── use_model.ipynb # Thử nghiệm & đánh giá mô hình
 └── test/ # Dữ liệu kiểm thử
-
+```
 ---
 
 ## ⚙️ Cài đặt
